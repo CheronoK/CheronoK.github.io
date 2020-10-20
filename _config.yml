@@ -1,11 +1,16 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Cherono Kibet # your name (or website title) here
+logo: "/images//DP.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Scientist 
   <br><br>
-  Second description 
+  A data scientist who is familiar with gathering, cleaning and organizing data
+  for use by technical and non-technical personnel.
+  Highly organized, motivated and diligent with significant background in
+  programming, mathematics, statistics, data cleaning, data analysis, data
+  visualization and data modelling.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/cherono-kibet-aa26811a9">View My LinkedIn Profile</a> 
+  <a href="https://github.com/CheronoK">View My Github Profile</a>
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
